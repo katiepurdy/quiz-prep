@@ -1,0 +1,10 @@
+This folder contains your app’s Java source code:app/src
+This folder contains all the resources of your app such as layout files, images, themes and strings:app/res
+The library where components such as Button and TextView are defined.:widget
+Android uses this virtual machine with just-in-time compilation:Dalvik Virtual Machine
+The Android Open Source Project (AOSP) is led by this entity:Google
+The text that is displayed in an Android application should be stored in this file:strings.xml
+This folder contains miscellaneous binary asset files needed by your application:app/assets
+This gesture triggers the default functionality for a given item. Action = press, lift:Touch
+This locates an appropriate component to respond to the intent, launches a new instance of the component if one is needed, and passes it the Intent object:Android Operating System
+You can use these to start activities, services, and broadcast receivers.:Intent
